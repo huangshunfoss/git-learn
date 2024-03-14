@@ -1,0 +1,3 @@
+git config --global user.signingkey keyid
+git config --global commit.gpgsign true
+
